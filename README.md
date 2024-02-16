@@ -8,5 +8,4 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on Backend Technologies
 - 🌱 I’m currently learning Rust
 - 💬 Ask me about Backend Engineering Tech
-- ⚡ Fun fact: ...
 
