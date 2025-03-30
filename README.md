@@ -4,9 +4,9 @@
 <!--**akanksh5/akanksh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-[![Akanksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=akanksh5&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Akanksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=akanksh5&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksh5&langs_count=8&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksh5&langs_count=8&theme=neon)
 
 <img src="https://raw.githubusercontent.com/akanksh5/akanksh5/output/snake.svg" alt="Snake animation" />
 
