@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksh5&langs_count=8&theme=neon)
 
 <a href="https://github.com/akanksh5">
-  <img height=200 width = 160 align="center" src="https://github-readme-stats.vercel.app/api?username=akanksh5&theme=neon"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=akanksh5&theme=neon"/>
 </a>
 <a href="https://github.com/akanksh5">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanksh5&langs_count=8&theme=neon" width= 320 />
