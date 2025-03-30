@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=akanksh5&theme=neon"/>
 </a>
 <a href="https://github.com/akanksh5">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanksh5&langs_count=8&theme=neon" width= 320 />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanksh5&langs_count=8&theme=neon&card_width=320" />
 </a>
 
 <img src="https://raw.githubusercontent.com/akanksh5/akanksh5/output/snake.svg" alt="Snake animation" />
