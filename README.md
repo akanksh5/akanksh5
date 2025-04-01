@@ -4,6 +4,7 @@
 <!--**akanksh5/akanksh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
+![](https://komarev.com/ghpvc/?username=akanksh5&color=blueviolet)
 <a href="https://github.com/akanksh5">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=akanksh5&theme=neon"/>
 </a>
